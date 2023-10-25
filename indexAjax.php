@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>upload file with XMLHttpRequest</title>
+    <title>Upload File with XMLHttpRequest</title>
     <link rel="stylesheet" type="text/css" href="./assets/bootstrap.min.css" />
     <script src="./assets/axios.min.js"></script>
 </head>
