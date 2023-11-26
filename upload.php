@@ -15,7 +15,7 @@ if(isset($_FILES["file"])){
             $error[] = "error upload file!";
             echo "error";
         }else{
-            echo "3333";
+            echo "true";
         }
     }else{
         mkdir("uploads");
