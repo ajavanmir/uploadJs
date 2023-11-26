@@ -1,4 +1,8 @@
 <?php
+/*
+Copyright amir javanmir
+Released on: october 25, 2023
+*/
 if(isset($_FILES["file"])){
     $error = [];
     $pathProject = __DIR__;
